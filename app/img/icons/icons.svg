@@ -1,0 +1,253 @@
+<svg version="1.1"  baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+    <symbol id="Storm-Trooper" viewBox = "0 0 96 96">
+
+    	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+    		M56,83.286c0,4.418-3.582,8-8,8c-4.418,0-8-3.582-8-8c0-4.418,3.582-12.571,8-12.571C52.418,70.714,56,78.867,56,83.286z"/>
+    	<g>
+
+    			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -34.9447 71.636)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="69" cy="78" rx="5" ry="5"/>
+    	</g>
+    	<g>
+
+    			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -47.2462 41.9375)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="27" cy="78" rx="5" ry="5"/>
+    	</g>
+    	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+    		M40.948,87.066c-0.553,1.066-1.568,2.524-2.463,3.419c-4.686,4.686-12.284,4.686-16.971,0l-5-5
+    		c-2.692-2.692-3.838-6.346-3.437-9.856C13.078,75.629,6,65.875,6,62c0-4.418,3.582-8,8-8h-4l2-16h2V26l0,0C14,12.8,24.8,2,38,2h10
+    		h10c13.2,0,24,10.8,24,24l0,0v12h2l2,16h-4c4.418,0,8,3.582,8,8c0,3.875-7.078,13.629-7.078,13.629
+    		c0.401,3.51-0.744,7.164-3.437,9.856l-5,5c-4.686,4.686-12.284,4.686-16.971,0c-0.895-0.895-1.91-2.353-2.463-3.419"/>
+    	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+    		M74,45c0,2.762-2.239,5-5,5c-5.563,0-15-5.125-15-12h20V45z"/>
+    	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+    		M22,45c0,2.762,2.238,5,5,5c5.562,0,15-5.125,15-12H22V45z"/>
+    	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+    		M68,65c-2.958,0-6.375-2.5-11.75-5.5C53.846,58.158,51.258,57,48,57c-3.258,0-5.846,1.158-8.25,2.5C34.375,62.5,30.958,65,28,65"/>
+
+    		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="14" y1="30" x2="82" y2="30"/>
+
+    		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="14.08" y1="24" x2="81.917" y2="24"/>
+
+    </symbol>
+     <symbol id="Storm-Trooper-2" viewBox = "0 0 96 96">
+
+    		<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M20.563,49.503c-4.313,4.08-1.765,8.001-1.765,8.001l10.709,18.149c0.499,0.846,1.542,1.208,2.462,0.854
+		c2.003-0.772,3.79-2.812,8.015-5.158C42.393,70.01,44.733,69,48,69l0,0c3.267,0,5.877,1.01,8.288,2.348
+		c4.225,2.346,6.011,4.386,8.015,5.158c0.92,0.354,1.962-0.008,2.462-0.854l10.709-18.149c0,0,2.599-3.396-2.018-7.99"/>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M70.492,83.408c0.783,0.779,0.783,2.043,0,2.822c-0.783,0.779-2.053,0.779-2.836,0c-0.783-0.779-0.783-2.043,0-2.822
+			C68.439,82.628,69.709,82.628,70.492,83.408z"/>
+	</g>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="14.669" y1="62.368" x2="20.561" y2="72.265"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="81.735" y1="62.368" x2="75.843" y2="72.265"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M58.031,90.307
+		C55.285,92.493,51.789,94,48,94c-3.827,0-7.327-1.534-10.085-3.759"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M83.114,31.934
+		C83.114,15.47,69.575,2,53.028,2H43C26.453,2,12.914,15.47,12.914,31.934v5.075v5.901C0.985,56.755,8.112,67.985,8.112,67.985
+		s7.02,13.943,11.658,21.801c4.638,7.858,14.337,2.43,18.211,0.412C42.703,87.739,48,88,48,88l0,0c0,0,5.23-0.253,9.952,2.206
+		c3.874,2.018,13.521,7.573,18.159-0.285S87.75,68.085,87.75,68.085s7.398-11.33-4.636-25.174V36.93V31.934"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="13" y1="40" x2="83" y2="40"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="13" y1="34" x2="83" y2="34"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M14.877,39.917C17.127,43.992,20.026,53,28,53c8.587,0,14.06-7.096,20.014-7.096S59.413,53,68,53
+		c7.973,0,10.901-9.008,13.151-13.083"/>
+
+    </symbol>
+    <symbol id="Storm-Trooper-3" viewBox = "0 0 96 96">
+                <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -51.9031 44.6949)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="28" cy="85" rx="3" ry="3"/>
+
+        		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -40.1873 72.9792)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="68" cy="85" rx="3" ry="3"/>
+
+        		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+        		2.819,74 23,38 73,38 93.205,74 	"/>
+
+        		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="19.62" y1="44" x2="76.26" y2="44"/>
+        	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+        		M87.701,64.194c-1.05,2.743-11.175,23.694-11.175,23.694C75.323,91.442,71.96,94,68,94c-3.286,0-6.161-1.761-7.732-4.391l0-0.004
+        		C55.875,88.75,51.284,88,48,88c-3.266,0-8.275,0.397-12.266,1.605C34.164,92.237,31.288,94,28,94c-4.012,0-7.411-2.625-8.573-6.252
+        		c0,0-9.99-20.938-11.04-23.681"/>
+        	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M76.618,87.874
+        		c5.946-0.964,11.365-2.325,14.998-4.217c3.343-1.74,2.781-6.532,1-11.314L82.959,45L83,32C83,15.5,69.5,2,53,2H43
+        		C26.5,2,13,15.5,13,32l0.041,13L3.384,72.343c-1.781,4.782-2.343,9.574,1,11.314c3.663,1.907,9.089,3.275,15.092,4.241"/>
+        	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+        		M11.917,57.941l10.631,19.898C24.06,76.685,25.95,76,28,76c3.424,0,6.401,1.912,7.922,4.726l-0.002-0.001
+        		C36.297,80.625,48,79,60,80.875l-0.001,0C61.495,77.979,64.516,76,68,76c2.136,0,4.098,0.744,5.641,1.987l-0.004-0.002
+        		l10.555-20.044"/>
+
+    </symbol>
+    <symbol id="Storm-Trooper-4" viewBox = "0 0 96 96">
+                <path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+        		M56,94h4.844c0.713,0,1.37-0.376,1.728-0.993C65.521,87.92,77.055,65,81.5,65l1.827,0.003c2.762,0.004,4.697-2.727,3.777-5.332
+        		l-3.145-14.568l0.041-13c0-16.5-13.5-30-30-30H44c-16.5,0-30,13.5-30,30l0.041,13l-3.144,14.566
+        		c-0.92,2.604,1.013,5.334,3.774,5.332L16.5,65c4.445,0,15.979,22.92,18.928,28.007C35.786,93.624,36.443,94,37.156,94H42l0,0
+        		c0-2.2,1.8-4,4-4h6C54.2,90,56,91.8,56,94L56,94z"/>
+        	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M56,49
+        		c0,0,7.551,19.411,20.142,20.905"/>
+
+        		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+        		67.75,83.578 76.954,81 77,81 76.142,69.905 	"/>
+
+        		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+        		30.351,83.761 21.01,81 21,81 21.858,69.905 	"/>
+        	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M65,51c0,0-11-3-16-3
+        		s-16,3-16,3c-2.75,0-5-2.25-5-5l0,0c0-2.75,2.25-5,5-5c0,0,11,2,16,2s16-2,16-2c2.75,0,5,2.25,5,5l0,0C70,48.75,67.75,51,65,51z"/>
+        	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M21.858,69.905
+        		c2.338-2.621,5.242-7.125,1.643-9.812C18.979,57.035,16,51.859,16,46c0-9.374,7.626-17,17-17l2.145,0.193
+        		C39.275,29.943,46.305,31,49,31c2.695,0,9.725-1.057,13.855-1.807L65,29c9.374,0,17,7.626,17,17c0,5.859-2.979,11.035-7.502,14.093
+        		c-3.553,2.653-0.767,7.078,1.555,9.712"/>
+        	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M27.756,55.668
+        		C24.33,53.802,22,50.168,22,46c0-6.065,4.935-11,11-11l1.073,0.097C36.987,35.626,45.349,37,49,37
+        		c3.651,0,12.013-1.374,14.927-1.903L65,35c6.065,0,11,4.935,11,11c0,4.168-2.33,7.802-5.756,9.668"/>
+        	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M41.5,49
+        		c0,0-7.214,19.194-19.642,20.905"/>
+    </symbol>
+    <symbol id="Storm-Trooper-5" viewBox = "0 0 96 96">
+        <polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		15.824,26 7,26 7,71 11.45,71 	"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11" y1="26" x2="11" y2="2"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M14.041,37
+		c0-19.33,15.67-35,35-35h-0.082c19.33,0,35,15.67,35,35"/>
+
+		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		14,37 11,77 40,94 58,94 87.375,77 84,37 	"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="14.275" y1="33" x2="83.718" y2="33"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M58,94V52c0,0,12.29-4.046,20.234-7.116L77.532,39h-1.104H49H21.104H20l-0.468,5.884C27.476,47.954,40,52,40,52v42"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M12.997,50.392
+		C25.478,56.896,34,69.953,34,85v5.483"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M85.003,51.1
+		C72.522,57.604,64,69.953,64,85v5.528"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.333" y1="15.333" x2="64.583" y2="21.583"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="55" y1="19" x2="55" y2="24"/>
+    </symbol>
+
+<symbol id="Storm-Trooper-6" viewBox = "0 0 96 96">
+    <path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M53,63c2.02,1.318,7.757,2.091,13,2.042"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M43,63c-2.02,1.318-7.757,2.091-13,2.042"/>
+
+		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		44,20 44,2 52,2 52,35 44,35 44,30 	"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M43,62.75c0-2.761,2.239-4.75,5-4.75s5,1.989,5,4.75V68H43V62.75z"/>
+
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -51.0244 46.8162)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="31" cy="85" rx="3" ry="3"/>
+
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -41.066 70.8579)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="65" cy="85" rx="3" ry="3"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="34" y1="85" x2="62" y2="85"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="32.828" y1="82.172" x2="43" y2="67"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="63.172" y1="82.172" x2="53" y2="67"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="48" y1="68" x2="48" y2="85"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="42" y1="69" x2="42" y2="84"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="54" y1="69" x2="54" y2="85"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="60" y1="78" x2="60" y2="85"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36" y1="78" x2="36" y2="85"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M41.882,43.278c1.069,1.177,1.037,5.333,1.037,5.333s0.143,5.395-1.037,6.176c-3.712,2.457-17.58,3.178-20.714,0
+		c-3.134-3.178,0.199-8.722,4.013-11.509C29.296,40.27,38.88,39.972,41.882,43.278z"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M53.968,43.278c-1.069,1.177-1.037,5.333-1.037,5.333s-0.143,5.395,1.037,6.176c3.712,2.457,17.58,3.178,20.714,0
+		c3.134-3.178-0.199-8.722-4.013-11.509C66.554,40.27,56.971,39.972,53.968,43.278z"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="67.121" y1="82.879" x2="74.833" y2="69.586"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M26.91,19.433
+		c4.31-4.664,10.376-7.836,17.09-8.804"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M21.873,27.227
+		c0.399-0.943,0.85-1.858,1.349-2.74"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" x1="28.879" y1="82.879" x2="21.167" y2="69.586"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M76.098,82.957
+		C83,82,91.903,78.837,93.225,78.149"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M20.225,82.957
+		C13.323,82,4.098,78.762,2.776,78.074"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M83,45
+		c0,0-8.333-18.167-31-10"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M13,45
+		c0,0,8.333-18.167,31-10"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M44,4.231
+		C26.568,6.234,13,21.037,13,39v6L3.364,76.343c-1.781,4.782-2.333,9.574,1.01,11.314C14.157,92.749,36.893,94,47.995,94
+		s33.836-1.251,43.619-6.343c3.343-1.74,2.782-6.532,1.001-11.314L82.959,45L83,40.031L82.959,39
+		C82.959,21.037,69.427,6.234,52,4.231"/>
+</symbol>
+<symbol id="falcon" viewBox="0 0 96 96">
+			<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="33.163" y1="45.839" x2="15.75" y2="28.427"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="40.877" y1="39.411" x2="22.987" y2="21.521"/>
+	<g>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -45.3078 37.4554)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="22.559" cy="73.419" rx="1" ry="1"/>
+	</g>
+	<g>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -38.2368 40.3845)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="29.63" cy="66.348" rx="1" ry="1"/>
+	</g>
+	<g>
+
+			<circle fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="15.584" cy="61.752" r="1"/>
+	</g>
+	<g>
+
+			<circle fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="24.584" cy="57.509" r="1"/>
+	</g>
+	<g>
+
+			<circle fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="34.226" cy="80.394" r="1"/>
+	</g>
+	<g>
+
+			<circle fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="38.469" cy="71.394" r="1"/>
+	</g>
+
+		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		49.819,40.502 84.077,6.244 79.834,2.001 32.686,16.495 	"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="74.178" y1="16.143" x2="79.834" y2="21.8"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M73.319,28.315c5.669,7.034,8.288,15.854,8.05,24.413"/>
+
+		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		55.116,46.472 89.734,11.901 93.977,16.143 82.916,51.247 	"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M58.994,57.528l25.79,5.991l7.778-7.778c1.945-1.945,1.945-5.127,0-7.071l0,0c-1.944-1.944-5.126-1.944-7.071,0l-4.152,4.088
+		l-26.222-6.286"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="74.542" y1="73.076" x2="55.566" y2="54.205"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="67.662" y1="80.339" x2="49.284" y2="61.777"/>
+
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -23.1751 46.0499)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" cx="44" cy="51" rx="12" ry="12"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.954" y1="46" x2="33.163" y2="45.839"/>
+
+		<line fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="49.961" y1="88.093" x2="49.25" y2="61.777"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M80.043,62.418c-1.717,5.578-4.783,10.83-9.197,15.244c-5.826,5.826-13.113,9.303-20.681,10.431l-5.961,5.906l0,0
+		c-10,0-21.514-4.149-29.813-12.448c-8.28-8.28-12.43-19.128-12.448-29.98l0,0L7.954,46c1.155-7.507,4.784-14.882,10.566-20.664
+		c13.459-13.459,34.708-14.382,49.235-2.767"/>
+
+</symbol>
+
+</svg>
+
+
+
+
+
